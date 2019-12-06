@@ -25,6 +25,7 @@ let studentData = {
 console.log(studentData.name);
 
 
+// list of objects
 let ngesData = [];
 
 let data1 = {
@@ -38,6 +39,6 @@ let data2 = {
 }
 
 ngesData.push(data1);
-ngesData.push(data1);
+ngesData.push(data2);
 
 console.log("nges data: ", ngesData);
