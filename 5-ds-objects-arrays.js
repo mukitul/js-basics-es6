@@ -13,3 +13,13 @@ sequence.push(5);
 console.log(sequence);
 console.log(sequence.pop());
 console.log(sequence);
+
+
+// objects
+
+let studentData = {
+    id:1,
+    name:"Mukit",
+    schoolName:"BTRI High School"
+}
+console.log(studentData.name);
