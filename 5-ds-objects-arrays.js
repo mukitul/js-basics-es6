@@ -23,3 +23,21 @@ let studentData = {
     schoolName:"BTRI High School"
 }
 console.log(studentData.name);
+
+
+let ngesData = [];
+
+let data1 = {
+    name: "Moin",
+    designation: "SE"
+};
+
+let data2 = {
+    name: "Raghib",
+    designation: "SE"
+}
+
+ngesData.push(data1);
+ngesData.push(data1);
+
+console.log("nges data: ", ngesData);
